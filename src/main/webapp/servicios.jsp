@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Index
-    Created on : 20 abr. 2023, 22:25:24
+    Document   : servicios
+    Created on : 20 abr. 2023, 22:54:44
     Author     : USUARIO
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-            <h1>Pagina principal</h1>
-            <%@include file= "menu.jsp"%>
+        <h1>Hello World!</h1>
     </body>
 </html>

@@ -13,5 +13,6 @@
     </head>
     <body>
             <h1>Pagina principal</h1>
+            <%@include file= "menu.jsp"%>
     </body>
 </html>
