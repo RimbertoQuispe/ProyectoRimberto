@@ -12,6 +12,15 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Pagina principal</h1>
+        <%@include file= "menu.jsp"%>
+        <p> 
+            En el Explorador de objetos, conéctese a una instancia del Motor de 
+            base de datos de SQL Server y expándala.
+            Haga clic con el botón derecho en Bases 
+            de datos y, después, seleccione Nueva base de datos.
+            En Nueva base de datos, especifique un nombre de base de datos.
+        </p>
     </body>
 </html>
+
